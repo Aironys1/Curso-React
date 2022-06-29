@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    background-color:#1b8b78;
+    color: #ffffff;
+    padding: 10px;
+}
+
+div{
+    background-color:#022e17;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+
+}
+
+p{
+    text-align:justify;
+    margin:10px auto;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+strong{
+    color: #5e67e0;
+    
+}
